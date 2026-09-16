@@ -1,0 +1,18 @@
+
+body {
+  background-color: white;
+}
+
+h1 {
+  color: violet;
+  font-family: monaco;
+  font-size: 10px;
+  text-align: center;
+}
+
+pre {
+  color: violet;
+  font-family: monaco;
+  font-size: 10px;
+  text-align: center;
+} 
