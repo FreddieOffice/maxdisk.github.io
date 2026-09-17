@@ -1,18 +1,18 @@
 
 body {
-  background-color: white;
+  background-color: gainsboro;
 }
 
 h1 {
-  color: violet;
+  color: black;
   font-family: monaco;
-  font-size: 10px;
+  font-size: 30px;
   text-align: center;
 }
 
 pre {
-  color: violet;
+  color: black;
   font-family: monaco;
-  font-size: 10px;
+  font-size: 30px;
   text-align: center;
 } 
