@@ -10,6 +10,13 @@ h1 {
   text-align: center;
 }
 
+p {
+  color: black;
+  font-family: monaco;
+  font-size: 30px;
+  text-align: center;
+}
+
 pre {
   color: black;
   font-family: monaco;
